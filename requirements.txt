@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+scipy==1.7.1
+timm==0.6.12
+scikit-learn==1.0
+torch==1.12.1
+torchvision==0.13.1
+einops
